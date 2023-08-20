@@ -31,9 +31,11 @@ The Sudoku Solver is a command-line program written in C++ that allows you to so
    git clone https://github.com/henockarega/sudoku-solver.git
 
 2. Compile the program:
+   ```sh
    g++ -o sudoku main.cpp
 
 3. Run the program:
+   ```sh
    ./sudoku
 
 4. Follow the on-screen instructions to input your puzzle or generate one.
