@@ -44,8 +44,8 @@ The Sudoku Solver is a command-line program written in C++ that allows you to so
 Contributions are welcome! Feel free to submit issues and pull requests if you find any bugs, have suggestions for improvements, or want to add new features.
 
 ## Credits
-    Author: Henock Arega
-    GitHub: https://github.com/henockarega
+- Author: Henock Arega
+- GitHub: https://github.com/henockarega
 
 ## License
 This project is licensed under the MIT License.
