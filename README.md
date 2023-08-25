@@ -15,8 +15,7 @@ The Sudoku Solver is a command-line program written in C++ that allows you to so
 
 ## Features
 - Validate the correctness of the entered puzzles.
-- Solve Sudoku puzzles provided through text files.
-- Utilize a backtracking algorithm to solve Sudoku puzzles.
+- Utilize a backtracking algorithm to solve sudoku puzzles provided through text files.
 - Generate new Sudoku puzzles for you to solve.
 - Ensure generated puzzles have a unique solution.
 
